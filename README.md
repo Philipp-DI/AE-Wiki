@@ -25,7 +25,7 @@ Dieses Repository enthält sämtliche Lernmaterialien für die duale Ausbildung 
 ## Struktur
 
 ```
-_LERNINHALTE/
+THIS_REPO/
 ├── 1_GRUNDSTUFE/          # Grundstufe – LF1 bis LF5
 │   ├── LF1/               # Rolle & Rahmenbedingungen
 │   ├── LF2/               # Hardware-Grundlagen
