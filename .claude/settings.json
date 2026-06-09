@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(Rename-Item \"g:\\\\_LERNINHALTE\\\\1_GRUNDSTUFE \\(LF1-5\\)\" \"1_GRUNDSTUFE\" -ErrorAction Stop)",
-      "PowerShell(Rename-Item \"g:\\\\_LERNINHALTE\\\\2_FACHSTUFE \\(LF6-9\\)\"  \"2_FACHSTUFE\"  -ErrorAction Stop)",
-      "PowerShell(Rename-Item \"g:\\\\_LERNINHALTE\\\\3_AE-STUFE \\(LF10-12\\)\" \"3_AE-STUFE\"   -ErrorAction Stop)"
-    ]
-  }
-}
