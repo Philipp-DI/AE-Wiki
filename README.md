@@ -1,4 +1,4 @@
-# _LERNINHALTE
+# LERNINHALTE
 
 > **[EN]** Personal learning repository for the German dual vocational training programme (*duale Ausbildung*) as *Fachinformatiker*. Contains structured notes, diagrams, and hands-on practice projects covering all compulsory learning fields (*Lernfelder*), mathematics, business studies, and applied software engineering.
 
